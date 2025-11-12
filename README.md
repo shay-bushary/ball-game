@@ -1,4 +1,4 @@
-# TwoSteps React task
+# TwoSteps React + Python Flask task
 
 ## (v.1.0.1)
 
